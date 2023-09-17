@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**OmarAshraf7/OmarAshraf7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-Here are some ideas to get you started:
+<h3 align="center">
+  Welcome to Omar Ashraf's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
+
+-  I'm a Senior ECE student @Helwan University
+-  Really passionate about embedded systems and Automotive Industry
+
+
+
+### Connect with Me :
+
+<a href="https://linkedin.com/in/omar-ashraf-b289b9214" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Ashraf-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
+
+
