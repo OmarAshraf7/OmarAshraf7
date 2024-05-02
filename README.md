@@ -36,7 +36,7 @@
 <h3 align="left"> Communication Protocols: UART, I2C, SPI
 <h3 align="left"> Automotive Bus Technologies : CAN & LIN
 <h3 align="left"> RTOS
-<h3 align="left"> Digital Commuincations
+<h3 align="left"> x86 Assembly
 <h3 align="left"> VHDL
 
 
