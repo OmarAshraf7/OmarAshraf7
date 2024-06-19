@@ -37,7 +37,6 @@
 <h3 align="left"> Automotive Bus Technologies : CAN & LIN
 <h3 align="left"> RTOS
 <h3 align="left"> x86 Assembly
-<h3 align="left"> VHDL
 
 
 
